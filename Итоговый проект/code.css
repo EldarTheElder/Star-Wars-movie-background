@@ -1,0 +1,81 @@
+body{
+    background-image: url('479511.jpg');
+    background-size: cover;
+    font-family: 'Rubik Glitch', cursive;
+    background-attachment: fixed;
+}
+.nav{
+    color: red;
+    background-color: rgba(47, 255, 0, 0.3);
+    margin: 250px;
+    padding: 30px;
+}
+.starwars{
+    color: blue;
+    text-align: center;
+    font-size: 70px;
+}
+.Begin{
+    color: rgb(29, 133, 0);
+    background-color: rgba(0, 0, 255, 0.3);
+    margin: 100px;
+    padding: 30px
+}
+.name{
+    text-align: center;
+    font-size: 50px;
+}
+section img{
+    height: 250px;
+    position: relative;
+}
+article{
+    text-align: center;
+}
+section article p{
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    margin: 0;
+}
+.name1{
+    text-align: center;
+    font-size: 50px;
+}
+.residents{
+    color: rgb(29, 133, 0);
+    background-color: rgba(0, 0, 255, 0.3);
+    margin: 100px;
+    padding: 30px;
+}
+.s2{
+    color: rgb(222, 0, 0);
+}
+.places{
+    color: rgb(29, 133, 0);
+    background-color: rgba(0, 0, 255, 0.3);
+    margin: 100px;
+    padding: 30px
+}
+.name2{
+    text-align: center;
+    font-size: 50px;
+}
+.games{
+    color: rgb(29, 133, 0);
+    background-color: rgba(0, 0, 255, 0.3);
+    margin: 100px;
+    padding: 30px
+}
+.name3{
+    text-align: center;
+    font-size: 50px;
+}
+.back{
+    color:red;
+    margin-bottom: 30px;
+    margin-left: 30px;
+}
+    
